@@ -1,0 +1,1297 @@
+
+
+===== PAGE 1 =====
+
+EDA
+,æ x
+
+CPU
+Q°
+ 
+1. 
+4‹7d8…^ñ
+ 
+1.1 
+4‹7dEïE–
+ 
+5ÿ4¯!5
+3nm
+"É˛ä
+GAA
+6•MÒ6…Q®
+CPU
+!žBƒ4=
+EDA
+
+!žOüX•;A2¤ u˛ÕM¥6^6`˛õ˛9
+EDA
+2Ï
+˚Ü,ä vOü(˚=à\²i×IîQ®AFZ½Z€E…Bƒeÿ;AG3Xâ˚˜MÞ
+EDA
+,ä v&' G^Ú!5E…
+
+4GBƒ
+-
+K½-¥
+-
+
+
+"î
+ 
+1.2 
+%õ
+ 
+D'˛“
+EDA
+,ä v˛¦˛ä"É˚~D'Zä
+EDA
+,ä v^ÚWK
+
+CPU
+4=Q®AFZ½"Ð˛¹#Wi‰ZÀ˛¹#W˚[˛9,ä v
+77.Â˚œ
+ 
+1.3 
+*ł˛J
+ 
+p#
+ 
+EDA
+o!D4*OZ½Z€Pé
+Electronic Design Automation
+^n˛õ,ä v*šB¯Q®AF
+˛Í6µ6…*ŽF˚B¯E… g<@
+ 
+p#
+ 
+o!6+4ƒ
+3nm
+ G^Ú,äQyQ†?¸
+FinFET
+
+GAA
+
+<´EÕ"ïHîJH˛:<@E… G^Ú,äQy
+ 
+p#
+ 
+ —*WQ®AFo!#*
+DRAM
+
+NAND Flash
+
+HBM
+*¼*W˜§%g
+AI
+&ùG?Z½
+JH&95nE…i×/&Oü*W˜§Q®AF
+ 
+p#
+ 
+CPU
+Q®AFo!&ù˛“
+RISC
+-
+V
+
+ARMv8
+
+x86
+-
+64
+˛ãeÅ6µ6…i×/&OüZ€
+AI
+<⁄\8D4*OE…i×Iî
+ 
+p#
+ 
+!ž4=Q®AFo!!žBƒ4=(&%g
+i×M¾/&-¥˚à*OJH&9
+ 
+p#
+ 
+DFM
+o!Z½Z€
+-
+!5
+Design for Manufacturability
+!5_˜,äQy
+<@AFQnBƒ
+ 
+
+
+===== PAGE 2 =====
+
+p#
+ 
+4õ-”454Zo!Q®AFZ½Z€˛,cž˚~Q®AF4õ-”=à
+\²Z½Z€X• L4õ-”^Ü
+ 
+˛J
+ 
+*Ž.−_;6•
+3nm
+"É^Ú!55u˚RJ€*Å-¥#G4oM¦'šd~
+-¥(&-D2Ï"F
+
+"TgŒi×Iî
+CPU
+
+GPU
+5u˚RJ€4oI•G3"B˛¾Q®5.
+HBM
+%ß
+AI
+&ùG?Z½4=Q®AF!˘fa˛3i×!ž!ž
+
+EDA
+,ä v˚œ\U˛¹,äXÃ!˘e½˛ä-ﬁ*øM²KrM¦Ah*O^Ý
+PóZ½Z€#g6˚d~^½
+2
+-
+3
+"T: <@I•G3
+5
+˛¾N“ BBƒe½6+
+EDA
+,ä v4ç&'_ˇ^Æ
+AI
+ip!§E… g<@1RG3˚˜MÞ,ä vCõ(ˇ
+Kz&−Q®AF!¨!ıQ®AF˚MIîQ®AF%ü˛¦5þ˛â
+ 
+2. 
+
+ 
+2.1 
+79.ÄEï
+ 
+-ÿ"Ð˝ÿ:=E…
+EDA
+
+3nm
+"É —*WQ®AF
+CPU
+ g6µ6…*Ž˛HIîZ½Z€˛þF˚i‰ZÀ
+JH gB®
+AI
+^—!¨Z½Z€OüB¯Z½Z€4GBƒ2Ï"F
+30%
+˛ä
+10%
+"† G^Ú,äi×IîQ®AFZ½Z€E…
+PPA
+
+
+ 
+2.2 
+AHK|&„
+ 
+p#
+ 
+ —*WQ®AFo!
+DRAM
+
+DDR5
+
+NAND Flash
+
+3D NAND
+
+100
++A"É
+HBM
+
+HBM3
+"É˛ä<v`Îe4
+ 
+p#
+ 
+CPU
+Q®AFo!i×/&Oü_ˇD'
+CPU
+
+AI
+
+CPU
+
+RISC
+-
+V
+
+ARMv8
+
+x86
+-
+64
+JH
+`L˛p-”1f+AZ½Z€eÿ
+ 
+p#
+ 
+
+5G/6G
+&95ng’!ži×˚ÜF˚&95n4.i×!žBƒ*Å-¥
+JH77.Âeÿ
+ 
+2.3 
+
+ 
+
+3nm
+"É˛ä {*¸
+GAA
+ gB®1h+T4.
+2nm
+"É5ó G
+%üeDJH˛:<@5u"†E…,äQy
+PDK
+"Á
+4o*š4õ5ó ² G^Ú!54G-ﬁ-ù,äQy;á!§E…dígŠ
+ 
+
+
+===== PAGE 3 =====
+
+2.4 
+/<˚T6·6–X‡;C
+ 
+,ä v`ÆD'+T˛977.ÂZ½Z€9 &VZÀ9 &V*š
+4o2mJ€
+AI
+^—!¨Z½Z€9 &V4ßN˝eÅ2m
+Pé*Ž˛H2Ñ˛õ1h+T {<@
+EDA
+
+Synopsys
+
+Cadence
+JH4ƒ
+eL˚MD'16^ÀHú
+ 
+3. 
+
+ 
+3.1 
+_˙D)&ûGA!€Oþ
+ 
+3.1.1 
+
+ 
+p#
+ 
+6µ6…"îZ€6…3,-ùDK_˚*Ž˛HQ®AF77.Â9 &V
+
+CPU
+E…^ÏJŒ"T —*WE…*WE…4=(&"T B&Vdó˛‚^Ý
+ 
+p#
+ 
+
+AI
+^—!¨6µ6…"õ2m
+PPA
+
+2§6…4¸7GZÃ˚/6µ6…*øQ®AF/&OüE….p#Ì
+MÞ6µ6…Z½Z€˚œ\Ui‰E…DÚ?¸
+ 
+p#
+ 
+4¸7G*ø6+˚Ü*W(ˇ˛)6µ6…Z½7GE…
+PPA
+%Ý=®
+ 
+!NIðZ¿Z¢!€Oþ
+ 
+p#
+ 
+
+Verilog
+
+VHDL
+JH˛:<@Gk˛õ2Î^ïZì
+HDL
+7¿
+!§Wd g*Ž2Ï"F˛â
+ 
+p#
+ 
+
+HDL
+dçM¦
+5ÿ4¯!5"T B-™˚˜MÞ_:^’Mûe½˛ä-ﬁ*ø(ˇ
+E…dígŠ
+ 
+p#
+ 
+
+IP
+77 —Nm-7D'
+IP
+(†*Ã*W*W˜§"T B
+
+IP
+77*û dD'16Pé*Ž˛H
+IP
+77E…!ˆ-ù
+
+CPU
+4=Q®AF
+IP
+
+ 
+
+ 
+p#
+ 
+˛“
+AI
+JŒ;Ô*šB¯9 
+-õ^Þo"c⁄*ø —*WQ®AFE…<v`Î
+CPU
+E…(ˇ77.ÂQ®
+AFE…4b?ì
+ 
+p#
+ 
+5ÿ4¯!5M¾dó
+
+
+===== PAGE 4 =====
+
+_ˇ*S4o`ÎeO ²M²KrM¦M¾1ä']
+4õ-”454Ze½E…dígŠo"4.!§-”
+ 
+p#
+ 
+
+DRC
+Z½Z€XÃ!˘
+LVS
+Pó/&7¿6ä
+ERC
+!˘7¿6äZ½Z€XÃ!˘*Ž˛Hi‰ZÀXÃ!˘o"c⁄*ø
+3nm
+*Oe¦I~
+IR
+
+EM
+^ÀHúJHZÀ
+"Fi‰ZÀK½Bƒ
+ 
+
+ 
+p#
+ 
+!žOü˛þF˚4o*VD4\îD4\îE…!žOü2Ï˚ıi×K½-¥˛þ
+"î9 1ÞQ®AF&'E…,ä˚[^™ ù˛þF˚;á˛þF˚MÒ6ł
+ZÔo"c⁄*ø!ž4=Q®AFE…9 1ÞD'9 1Þ˛þF˚
+ 
+p#
+ 
+
+STA
+!§4õ-”˛þF˚`L5ÿ4¯!5E…4õ-”9 &−
+"î.ê_˚ZÅ!*4õ-” r2Ï˚ı4õ-ù4õ-”45 ²˚˜MÞ4õ-”
+˛þF˚Zî,íBƒi×E…
+ 
+p#
+ 
+Q®AF g<@!ž"îK½ ÅZ€
+?¸4¸7Go"c⁄*ø G^Ú!5dí
+
+ 
+p#
+ 
+AI
+^—!¨i‰ZÀo!eÅ
+AI
+ip!§E…i‰ZÀ"îPé!§D˚
+.Q<JZÔ<@N(Fìi‰ZÀ#g6˚
+
+˚˜MÞ˛¹,ä4o#g*‰E…<JZÔZ€D˚˛ú!€N(FìPò4o((
+i‰ZÀ4GBƒ2Ï"F
+4
+Xâ ²i‰ZÀX–EÕBƒ.Q<JZÔ#g6˚d~E…DÚ
+ 
+
+ 
+p#
+ 
+
+DFM
+Z€
+-
+!5_˜"NZ€e5:´V„ d!5_˜,äQy"Á4o H
+JH,äQy"F<@AFQnBƒo"c⁄*ø
+3nm
+"É˛äQn
+Bƒg…<J9 ,íBƒ2¦!5&'
+15%
+˛ä
+ 
+p#
+ 
+
+*øQ®AF/&OüE….p˚ıN9evXÃ_~eL˚MZÔd˘
+ 
+p#
+ 
+!€*e˛_&ù˛“"–"ñQnBƒ4o2mZ½,äQy"Á4oE…"8`L
+^Ú˝ÿ:d2Ï"FQ®AF
+3nm
+,äQyQnBƒ2Ï"F"î^½
+10%
+-
+20%
+
+ 
+
+ 
+p#
+ 
+
+HDL
+˛â1¤MÞ˝ÿJ€6+
+"î^ü=®Z½˛,E…:Î˝ÿ
+ 
+p#
+ 
+˛õE…*û d
+GDSII
+
+Verilog/VHDL
+
+4ƒ˛õ
+SPICE
+˛þF˚4ƒ˛õ
+PDF
+1¤#I4ƒ˛õJH {*¸˛:<@5u"†E…<@AF4ƒ˛õ7;
+
+
+===== PAGE 5 =====
+
+Gm˚ÜZ½Z€4ƒ˛õ"îEó2¤D'˛“
+ 
+p#
+ 
+1¤#IPé6…Z½Z€˛þZÀ1¤#IQnBƒ
+#* rd-2Ï"FZ½Z€4ƒ
+ 
+3.2 
+ ƒ*YQ°Z¿Z¢!€Oþ
+ 
+p#
+ 
+D'6µ6…Z½
+DRAM
+E…*W˜§!5"T B"T
+NAND Flash
+E…*W˜§"T B!59 &V
+HBM
+_˚2¤"âZ½
+
+ 
+p#
+ 
+Q®AFE…i×_˚2¤"â
+DDR5
+
+HBM3
+˚à"ö*‰
+`L
+AI
+%g*ø —*W-%*¼E…i×eÿ;A
+ 
+p#
+ 
+D'˛þF˚9 1Þ —*WE…Zú Ÿ_˚ r
+ —*W4Deł˛þF˚ —*W"îf_/&o"c⁄*ø<v`ÎZ€4G
+˛þF˚JŒ;Ô˛þF˚4õdó
+ 
+p#
+ 
+
+"T!§
+AI
+!€%gE…˚M!ž
+ 
+3.3 CPU
+Q°gzZ¿Z¢!€Oþ
+ 
+p#
+ 
+
+CPU
+Z½Z€
+RISC
+-
+V
+
+ARMv8
+
+x86
+-
+64
+˛ãeÅ6µ6…
+(ˇ77.Â
+CPU
+
+L1/L2/L3
+i×
+
+ 
+p#
+ 
+
+CPU
+77.Â"T BZ½Z€,ä v^ÏJŒ"T B
+ALU
+
+FPU
+
+2¤"â"TD'Z½Z€9 6~77.Â"T B2Ï"F
+CPU
+^Ï
+
+ 
+p#
+ 
+
+CPU
+`Li×g’
+CPU
+E…4õcžeÿ;A4õcž
+ 
+skew
+
+4õ-”454Zo"c⁄*ø(ˇ77.Â
+CPU
+Z€.Â4õcž˝ÿ
+ 
+p#
+ 
+
+CPU
+/&Oü˛þF˚9 &V
+CPU
+E…^ÏJŒ_˚1fWK4G*W#|˛,Bƒ
+
+CPU
+(ˇ77.Âo"c⁄*ø
+AI
+
+CPU
+
+i‰ZÀ
+AI
+^ÏJŒ"T BE…/&Oü
+ 
+3.4 
+!€4?Q°Z¿Z¢!€Oþ
+ 
+p#
+ 
+D'6µ6…Z½g’!ž4=E…4=(&"T BD4
+=ã;áD4\î2ÏZ€9 6~,ä
+AB
+
+D
+KzJHKz
+
+ 
+p#
+ 
+Q®AFE…M¾/&-¥˛þF˚,ä v9 1Þ!žF˚
+
+
+===== PAGE 6 =====
+
+˚ıM¾/&-¥˚Ü!ž4=^™ ù˚à"öE…I2*Ž/&o"
+5G/6G
+
+˚à"ö˚˜^™4GBƒ
+ 
+p#
+ 
+Q®AF?ì˛þF˚9 &V4=Q®AF&',ä˚[^Æ4b?ì?ì
+4b?ìMÒ-ù!ž4=Q®AFi×!žBƒ-%6dE…4b?ìdígŠ?ì
+-
+˛þ
+Z½Z€K½
+ 
+p#
+ 
+Q®AFE…^™ ù!žBƒE…!L2Ïo"c⁄
+*øfòg’!ž˚ıi×˚ÜF˚˛þF˚9 &Vfò\'^™ ù
+ 
+3.5 AI
+^ƒ!ªZ¿Z¢
+ 
+p#
+ 
+`ÆD'(ˇ5yOü˚R"N\˚\"
+IP
+
+ZÔJH rd-,ä˚[*šB¯ g<@
+ 
+p#
+ 
+^Æ,ä˛)77.ÂXâ ²
+AI
+-zXÈdígŠ
+AI
+Z½Z€E… ÅGm/&
+AI
+Oü(˚K½AFZ½Z€,ä v˚~D'4¸
+ ÅGm/&2Ï"F
+30
+-
+40%
+
+ 
+p#
+ 
+_çNq(ˇHÌ
+AI
+9 &−
+NVIDIA Nemotron
+
+OpenAI GPT
+
+782m*‹ g/&Oüeÿ;AE…eÿ;A
+ 
+p#
+ 
+*šB¯Z½Z€ gB®Q†
+AI
+o!6µ6…*Ž˛He5:´E…(ˇEíe5:´E…
+GNN/
+.9
+e5:´E…(ˇ˛ú!€*e˛_i‰ZÀe5:´E…
+CNN/GNN
+-ù9 
+"FZ½Z€4G
+ 
+4. 
+
+ 
+4.1 
+^ÑWM/(Oþ
+ 
+p#
+ 
+M¦5u˚RJ€XÃ9 E…Q®AFZ½Z€
+3nm
+!55u˚RJ€XÃ9 E…
+CPU
+Q®
+^Æ
+72
+^‡˚˜MÞ,ä v4GBƒ2Ï"F
+50%
+˛ä
+ 
+p#
+ 
+˛þF˚_˚-¥o!!žOü˛þF˚4.˛þF˚:dd~"îPé*Ž˛H
+1ps
+
+^m˛þF˚4õ^Æ
+24
+4õo"4õ-”F˚_˚-¥^‡˚˜MÞ,ä v2Ï"F
+30%
+
+ 
+p#
+ 
+_˚-¥o!
+DRC/LVS/ERC
+
+3nm
+
+100mm²
+AG%ý6ä4õdó
+
+48
+ ÅGmBƒ
+
+Bƒ
+
+
+ 
+p#
+ 
+AI
+^—!¨!žOü#Ì-ﬁ_˚-¥o!6µ6…2§RO-ﬁ
+\—^Æ
+10
+ZÔ!žOü#Ì-ﬁ\—^Æ
+30
+
+ 
+
+ 
+
+
+===== PAGE 7 =====
+
+p#
+ 
+4õ-”˛þF˚K½-¥o!4õ-”Zî,í
+
+.…ZÅ!* ÅGmBƒ
+
+Xâ ²˚˜MÞ4õ-”9 &−
+Zî,íBƒ\—^Æ
+10%
+E…dígŠ
+ 
+p#
+ 
+K½-¥o!JŒZî,í
+
+(˚K½ Å2T2HMÅ
+ G^Ú!5D4<@E…K½ Å2¦!5eÿ
+ 
+p#
+ 
+K½-¥o!Oü(˚ ÅGmZÅ!*
+3nm
+XÃ!˘^ÜM¾
+*SN9evJHGmBƒ
+
+
+ 
+p#
+ 
+QnBƒg…<JK½-¥o!QnBƒg…<JZî,í
+
+Oü(˚K½ Å"Ì5˜Z½Z€"ÁQy;á!§*øQnBƒE…
+"î
+ 
+;C
+ 
+p#
+ 
+,ä v^ÝMì^ÏWK4õdó
+
+4ß4o2m˛!(0"îPé!§
+eł
+ 
+p#
+ 
+(ˇ˝ÿZ½Z€4ƒ4o2m ±4ƒ˛õ2^
+^Þ
+
+
+ 
+p#
+ 
+3Ì˚[Kú
+Windows 10/11
+
+Linux
+
+Ubuntu 20.04
+
+4ß {*¸/&dígŠ
+ 
+5. 
+
+ 
+5.1 
+"ä
+ 
+p#
+ 
+Qy2¤"â*û d"ïHîD4%üeDJH˛:<@E…
+3nm
+
+
+PDK
+Z½Z€(V,äQy"Á4o*š4õ˚ÜZ½Z€,ä
+ 
+p#
+ 
+ v2¤"âo! {*¸
+Synopsys
+
+Cadence
+JH˛:<@
+EDA
+,ä vE…4ƒ˛õ
+ d
+/
+*û ù
+Verilog
+
+GDSII
+
+SPICE
+˛þF˚,äZÔ,ä v*ø2¤
+
+ 
+p#
+ 
+Gk˛õ2¤"â%g
+GPU
+
+NVIDIA GPU
+
+2Ï"F˛þF˚^ÏWK_˚-¥o"<JZÔZ½Eó2¤*û ù<JZÔ4o
+Q®AF<JZÔ
+ 
+5.2 
+ ƒ_é2¦"ä
+ 
+p#
+ 
+"âo!77.ÂZ½Z€9 i‰ZÀ9 *šB¯9 &V&VJH˛J
+dóE…4o2m2¤"âDD2m˚˜^™-õ^Þ
+
+Gm˚ÜZ½Z€4o2m*š4õ˛‚_ˇ5ó
+ 
+p#
+ 
+AI
+9 &V2¤"âo!
+AI
+^—!¨Z½ u˛Õ9 &V4ßN˝eÅ4õR¶"ÕZ½Z€4o2m
+
+
+===== PAGE 8 =====
+
+
+AI
+9 &− vE…"N4ß4o2m4¬
+ 
+6. 
+
+ 
+6.1 
+
+ 
+p#
+ 
+DKfaZ½Z€o!`ÆD'EóXÁE…%ý.aPé*Ž
+D'16E…3Ì˚[
+ 
+p#
+ 
+3Ì˚[˚¾2v/&o!2Ï˚ı1Õ1ü!§3Ì˚[o"
+2Ï˚ıZåMÅE…3Ì˚[--1J.ê_˚
+ 
+p#
+ 
+d˘Zî2ÏH9o!3Ì˚[d˘Zî4õE…d˘Zî2ÏD'16Xâ ²dígŠo"
+d˘Zî4ä.Ö˚¾˛“dígŠ
+ 
+6.2 
+"ð1j+V
+ 
+p#
+ 
+9 &V1h+T4¯'šQ®AF˚˜0˚%g4¯'š!5(†
+2nm
+E…1h+T^Æ4ßeÿ˚í4877
+ 
+p#
+ 
+JŒ;Ô1h+T
+AI
+JŒ;ÔE…782mWK˛ˇ
+JŒ;Ô9 "F,ä v/&Oü
+ 
+p#
+ 
+Gk˛õ1h+T(ˇ
+GPU
+%geÅN£"î782mZ½Z€XÃ9 1h+TGk˛õ\C
+"F^ÏWK_˚
+ 
+6.3 
+*− i/(
+ 
+p#
+ 
+4o2m*‹ go!Z½Z€˛þ,äQy4ƒ˛õJH77.Â166BeO
+i‰ZÀ#WJH:a4o2m;Ã
+ 
+p#
+ 
+o"
+2m˛!(0
+ 
+p#
+ 
+FäZÅ˛¦6B˚Ü1£o!Z€*Å*û ù6)MÎ2⁄6BE…4ƒ˛õ˚˜1£D'16
+E…Q®AFZ½Z€FäZÅ
+ 
+6.4 
+ }*º/(
+ 
+p#
+ 
+3Ì˚[KúMÞ {*¸o!
+Windows 10/11
+
+64
+˚L
+Linux
+
+Ubuntu 20.04
+"É˛ä
+64
+D'16E…Gk˛õB®'‡
+ 
+p#
+ 
+ {*¸o! d
+/
+*û ù
+Verilog
+
+VHDL
+
+GDSII
+
+SPICE
+
+PDF
+JH(ˇHÌ7;
+ {*¸˛:<@
+EDA
+4ƒ˛õ7;
+ 
+
+
+===== PAGE 9 =====
+
+p#
+ 
+Gk˛õ {*¸˛:<@
+CPU
+
+Intel i7
+"É˛ä
+AMD Ryzen 7
+"É
+GPU
+
+NVIDIA RTX 3090
+"É
+
+
+
+˚Ü,ä v<@DD^Ï
+
+ 
+7. 
+M§6`6b˛÷
+ 
+7.1 
+Gm˛÷M§6`
+ 
+^ÏWKZä
+EDA
+,ä vE…,ä˚[IØ
+/
+!€%geÿ=à`LNmo!
+
+-
+12700H 
+
+ 
+AMD 
+Ryzen 7 5800H
+o"
+
+
+8GB
+o" —*W
+
+RO
+64GB
+o"GkE×
+
+
+2TB
+"É˛äo"3Ì˚[KúMÞ˛9
+Windows 10/11
+
+64
+
+
+Linux
+
+Ubuntu 20.04
+
+64
+˚Lo"NPMÛ-%*¼
+
+D'
+
+ 
+7.2 
+^p˛÷M§6`
+ 
+,ä veÿ˚œ\U
+Java 11
+"É˛ä
+Python 3.8
+"É˛äeÿ*‹WÄE÷-ﬁE…^ÏWKB®'‡o"
+ {*¸˛:<@
+GCC
+
+Clang
+(†
+ModelSim
+
+VCS
+Gm˚Ü,ä v:b
+
+ 
+7.3 
+4÷dõM§6`
+ 
+#g6˚
+
+6µ6…Z½Z€i‰45˛£˛×
+˛ﬁ˛)e5:´#g6˚
+
+
+/
+`L5ÿ4¯!5'šQ®AFKz&−E…Z½Z€eÿ
+6."Ð+T
+ 
+7.4 
+6`
+ 
+!5&'g…JŒ.ÄX•E…6+4. ùo",ä v˛£^Ï
+
+
+
+10%/
+-so",ä v9 !ı%ü˛¦
+EDA
+,ä vE…
+
+ 
+8. 
+
+ 
+8.1 
+!€Oþi“47
+ 
+p#
+ 
+_ˇD'&ùG?!žOüo!D'6…*Ž˛HZ½˛þF˚i‰ZÀ
+4o2mJ€eÿ:b-7^ÏWKOüN9(0=à\²
+3.1
+Q†
+ 
+p#
+ 
+o! —*W
+CPU
+gxZ½Z€!žOü&Feÿ:b-7^ÏWK
+
+
+===== PAGE 10 =====
+
+Q®AFE…Z½
+3.2
+
+3.3
+
+3.4
+
+ 
+p#
+ 
+AI
+^—!¨!žOüo!
+AI
+6µ6…2§!§Oü:b-74G
+-¥=à\²
+3.5
+
+4.1
+Q†eÿ
+ 
+8.2 
+/(Oþi“47
+ 
+p#
+ 
+
+4.1
+Q†X•;A5="`g~
+
+ 
+p#
+ 
+K½-¥/&Oüo!4õ-”!žBƒg…<JE…K½-¥&Feÿ=à\²
+4.2
+Q†X•
+2¦!5&'%ó
+ 
+p#
+ 
+I2*Ž/&o!,ä v^ÝMì^ÏWK
+72
+4ß4o2m˛!Z½Z€4ß4o
+=à\²
+4.3
+Q†
+ 
+8.3 
+2¦"äi“47
+ 
+"â&Feÿ d
+/
+*û ù4ƒ˛õ*ø2¤J+,äGk˛õZ½
+4o2m˚˜^™4ß-õ^Þ(0
+5
+Q†1?
+ 
+8.4 
+f_!€Oþi“47
+ 
+"î1h+T g/&&Feÿ=à\²
+6
+Q† v3Ì˚["î
+˛õ
+ 
+9. 
+eE.V
+ 
+9.1 
+4ı
+ 
+p#
+ 
+"†
+3nm
+"É
+PDK
+HîD4˛,Q®%ü
+ 
+p#
+ 
+EDA
+
+IEEE 1076
+
+IEEE 1364
+
+ 
+p#
+ 
+ —*WQ®AF
+CPU
+!ž4=Q®AFZ½Z€XÃ6.
+ 
+p#
+ 
+AI
+ip!§
+EDA
+Z½Z€E÷ rWK˛ˇ1¤
+ 
+9.2 
+60Zî*ú@hWi
+ 
+Qð4ƒN( Ÿ
+ 
+Qð4ƒ gHï
+ 
+˛,4ƒ gHï
+ 
+EDA
+ 
+Electronic Design 
+D4*OZ½Z€
+ 
+
+
+===== PAGE 11 =====
+
+Automation
+ 
+PDK
+ 
+Process Design Kit
+ 
+,äQyZ½Z€(V˛õ
+ 
+PPA
+ 
+Power, Performance, 
+Area
+ 
+Hî
+ 
+DRC
+ 
+Design Rule Check
+ 
+Z½Z€XÃ!˘7¿6ä
+ 
+LVS
+ 
+Layout Versus Schematic
+ 
+Pó/&7¿6ä
+ 
+ERC
+ 
+Electrical Rule Check
+ 
+7¿6ä
+ 
+STA
+ 
+Static Timing Analysis
+ 
+
+ 
+DFM
+ 
+Design for 
+Manufacturability
+ 
+Z½Z€
+-
+!5
+ 
+GAA
+ 
+Gate
+-
+All
+-
+Around
+ 
+6•
+ 
+HBM
+ 
+High Bandwidth Memory
+ 
+i×-%*¼*W˜§%g
+ 
+9.3 
+OUKü4º
+ 
+eÿ;A*ø2¤˛¹o!
+6Œ7A*‹
+ 
+OSKúD4ZÜo!
+13450809906
+ 
+o!
+mendoumeiyou@qq.com
+ 
+ 
+ 
